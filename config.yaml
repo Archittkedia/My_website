@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio Website 
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Architt Kedia
   navigation:
     button1:
       - name: Get Started
