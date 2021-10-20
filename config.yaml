@@ -54,7 +54,7 @@ params:
         url: https://github.com/Archittkedia/
       - icon: fa-linkedin
         label: LinkedIn
-        url: www.linkedin.com/in/architt-kedia-lbs2022/
+        url: https://in.linkedin.com/in/architt-kedia-lbs2022
   image: ''
   name: Architt Kedia
   navigation:
@@ -68,7 +68,7 @@ params:
       - name: Home
         url: '#'
       - name: Blogs
-        url: blogs
+        url: blogs/aboutme
       - name: Generic Blog
         url: blogs/ipsum
       - name: Elements

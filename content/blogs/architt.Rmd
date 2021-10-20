@@ -1,0 +1,70 @@
+---
+
+draft: false
+keywords: ""
+slug: architt 
+title: "Aboutme"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  tidy = TRUE,
+  size = "small"
+)
+```
+
+
+```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
+library(gapminder)  # gapminder dataset
+library(here)
+library(janitor)
+```
+
+
+# Introduction
+
+I am Architt Kedia. I have been and brought up in [Hyderabad, India](https://en.wikipedia.org/wiki/Hyderabad). The city is known for its Nizam Heritage, excuisite cuisines, Spicy but delicious Biryanis, flamboyant festivals, and sprawling Tech sector.I have spent most of my early education at a local school. Following is the picture of the same:
+
+![My School](Meridian.jpg)
+
+### Education
+
+I have completed my undergraduate degree of *B.Sc. Finance* from **NMIMS University, Mumbai**. 
+
+Mumbai is my other home. I have lived there for just 3 years but truly love every aspect of the city. 
+
+>From its abosultely stunning Skyline
+
+>To Its Historically Significant Monuments
+
+>TO the Food
+
+[Mumbai](https://en.wikipedia.org/wiki/Mumbai) is also the financial capital of India and one the most expensive and fast-paced cities to live in India. That being said it is one of the most cultural diverse and historical significant city of India. It is home to a plethora of *historical monuments, cultural fests, sports events, films production, culinary delights.*  
+
+I had an amazing time during College. I was part of several clubs. During my time at college, I have been part of many clubs. Vaayu club is the cultural fest organizing committee which hosts a 3 day event and has a footfall of 15000+ members during the fest and I was a senior member in the marketing department for the same. I was also part of the trekking club and we have completed 3 intermediate treks near Mumbai.
+
+
+### Work Experience
+I have had **3 major work experience** before coming to LBS:
+
+1. Worked as an social intern for sports foundation
+2. Worked as an finance intern for a FMCG Firm
+3. Worked as a Supply chain and financial Analyst for a Steel Manufacturer
+
+### Hobbies and interests
+I have interests in the following fields: 
+
+1. Reading
+2. Geo-politics
+3. International Finance and business
+4. Sports - Can Watch anyhting and play most sports (Especially Table Tennis)
+5. Automobiles and F1  
+6. Adventures
+
+```{r picture1, echo=FALSE, out.width="30%"}
+knitr::include_graphics(c("/img/picture1.png", "/img/picture3.png", "/img/picture2.png"))
+```
