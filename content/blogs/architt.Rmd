@@ -29,7 +29,7 @@ library(janitor)
 
 I am Architt Kedia. I have been and brought up in [Hyderabad, India](https://en.wikipedia.org/wiki/Hyderabad). The city is known for its Nizam Heritage, excuisite cuisines, Spicy but delicious Biryanis, flamboyant festivals, and sprawling Tech sector.I have spent most of my early education at a local school. Following is the picture of the same:
 
-![My School](Meridian.jpg)
+![My School](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Meridian.jpg?raw=true) 
 
 ### Education
 
@@ -61,10 +61,10 @@ I have interests in the following fields:
 1. Reading
 2. Geo-politics
 3. International Finance and business
-4. Sports - Can Watch anyhting and play most sports (Especially Table Tennis)
+4. Sports - Can Watch all sports and play most sports (Especially Table Tennis)
 5. Automobiles and F1  
 6. Adventures
 
 ```{r picture1, echo=FALSE, out.width="30%"}
-knitr::include_graphics(c("/img/picture1.png", "/img/picture3.png", "/img/picture2.png"))
+# knitr::include_graphics("static/img/blogs/Meridian.jpg")
 ```
