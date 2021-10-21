@@ -13,6 +13,13 @@ knitr::opts_chunk$set(
   tidy = TRUE,
   size = "small"
 )
+
+# default figure size
+knitr::opts_chunk$set(
+  fig.width=6.75, 
+  fig.height=6.75,
+  fig.align = "center"
+)
 ```
 
 
@@ -27,8 +34,9 @@ library(janitor)
 
 
 ### Academic Work
-*Research*
-During my Undergraduate, as my final project, my study group researched for [The Antecedents and Lead Indicators to a Global Financial Crisis.](https://drive.google.com/file/d/1t2JWmXFCOtEFaD7TxS-jLfmdS0NaOVWP/view?usp=sharing)
+*Research* 
+
+During my Undergraduate, as my final project, my study group researched for [The Antecedents and Lead Indicators to a Global Financial Crisis.](https://drive.google.com/file/d/1u9Xkl4E4J5HoRA6X1UxEyj2dPyHmDGrI/view?usp=sharing)
 
 It was about critically analyze the various investment avenues and their
 interdependencies with the stock market, in order to establish certain movements in them as
@@ -41,9 +49,18 @@ data for the last 40 years, covering 3 major crises: the 1980s recession, the do
 and the sub-prime mortgage crisis.
 The research was successful at establishing relationships between the variables.
 
+> Yield Curve Inversion
+
+![](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Yield%20Curve%20Inversion.JPG?raw=true)
+
 *Project*
 
-we have also studied[Germany's economic Influence over Europe post 1970's.](https://drive.google.com/file/d/1vOH4cOUfC-CMQCax8urPoblYdzCZdCc9/view?usp=sharing)
+we have also studied [Germany's economic Influence over Europe post 1970's.](https://drive.google.com/file/d/1vOH4cOUfC-CMQCax8urPoblYdzCZdCc9/view?usp=sharing)
 
-In this project, we analysed the German influence in the peace era post world War 2 and its role in the Economic and Monetary union of Europe 
+In this project, we analysed the German influence in the peace era post world War 2 and its role in the Economic and Monetary union of Europe. 
 
+We also studied the Fiscal policies of European Goverments and saw how Germany's fiscal prudence has allowed it to continue its financial prowess.
+
+>Debt to GDP
+
+![](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Debt%20to%20GDP.JPG?raw=true)

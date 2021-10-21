@@ -67,12 +67,13 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs/aboutme
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: About Me
+        url: blogs/Architt
+      - name: About Me
+        url: blogs/work
+      - name: R Project
+        url: blogs/project
+        
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -83,11 +84,11 @@ params:
         subtitle: Dive in to find about more about my life
         title: About Me
         url: blogs/architt
-      - image: pic02.jpg
-        subtitle: Dive in to find out about my Academic and Professional work
+      - image: pic08.jpg
+        subtitle: Dive in to find out about my Academic work
         title: My Work
         url: blogs/Work
-      - image: pic03.jpg
+      - image: pic09.jpg
         subtitle: Find about more about my R project
         title: R project
         url: blogs/project

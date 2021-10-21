@@ -11,8 +11,13 @@ knitr::opts_chunk$set(
   message = FALSE,
   warning = FALSE,
   tidy = TRUE,
-  size = "small"
-)
+  size = "small")
+
+# default figure size
+knitr::opts_chunk$set(
+  fig.width=6.75, 
+  fig.height=6.75,
+  fig.align = "center")
 ```
 
 
@@ -38,9 +43,14 @@ Mumbai is my other home. I have lived there for just 3 years but truly love ever
 
 >From its abosultely stunning Skyline
 
+![](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Mumbai%20Skyline.jpg?raw=true)
+
 >To Its Historically Significant Monuments
 
+![](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Gateway.jpg?raw=true)
+
 >TO the Food
+![](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Food.jpg?raw=true) 
 
 [Mumbai](https://en.wikipedia.org/wiki/Mumbai) is also the financial capital of India and one the most expensive and fast-paced cities to live in India. That being said it is one of the most cultural diverse and historical significant city of India. It is home to a plethora of *historical monuments, cultural fests, sports events, films production, culinary delights.*  
 
