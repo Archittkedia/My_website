@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Let's Go
     subtitle: This is a website about me and my work
-    title: Hi, My name is Architt. 
+    title: Hi, My name is Architt
   blog: {}
   contact:
     address:
@@ -69,7 +69,7 @@ params:
         url: '#'
       - name: About Me
         url: blogs/Architt
-      - name: About Me
+      - name: My Work
         url: blogs/work
       - name: R Project
         url: blogs/project
@@ -88,7 +88,7 @@ params:
         subtitle: Dive in to find out about my Academic work
         title: My Work
         url: blogs/Work
-      - image: pic09.jpg
+      - image: pic03.jpg
         subtitle: Find about more about my R project
         title: R project
         url: blogs/project
