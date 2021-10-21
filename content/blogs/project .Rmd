@@ -46,7 +46,7 @@ library(stringr)
 
 
 
->In this Project we Manipulated raw GDP data to create meaningful Charts
+>In this project we manipulated raw GDP data to create meaningful charts
 
 ### Challenge 2: GDP components over time and among countries
 
@@ -100,7 +100,7 @@ tidy_GDP_data  <-  UN_GDP_data %>%
 ```
 
 
-We Will Sort the Data and then Reproduce the graph
+*We will sort the data and then produce the graph*
 
 ```{r country_plot,message = FALSE, error = FALSE,fig.width= 10, fig.height= 6}
 #Create a specific data table
@@ -196,7 +196,7 @@ glimpse(GDP_perc_table)
 
 ```
 
-We sort the Data and Produce the plot
+*We sort the data and produce the plot*
 
 ```{r plot_2, message = FALSE, error = FALSE,fig.width= 10, fig.height= 6}
 

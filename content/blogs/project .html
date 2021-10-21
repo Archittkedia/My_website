@@ -11,7 +11,7 @@ output: html_document
 
 
 <blockquote>
-<p>In this Project we Manipulated raw GDP data to create meaningful Charts</p>
+<p>In this project we manipulated raw GDP data to create meaningful charts</p>
 </blockquote>
 <div id="challenge-2-gdp-components-over-time-and-among-countries" class="section level3">
 <h3>Challenge 2: GDP components over time and among countries</h3>
@@ -105,7 +105,7 @@ tidy_GDP_data  &lt;-  UN_GDP_data %&gt;%
          &quot;InventoryChange&quot; = &#39;Changes in inventories&#39;
 
   )</code></pre>
-<p>We Will Sort the Data and then Reproduce the graph</p>
+<p><em>We will sort the data and then produce the graph</em></p>
 <pre class="r"><code>#Create a specific data table
 country_list &lt;- tidy_GDP_data %&gt;% 
   filter(Country == &#39;India&#39; | Country == &quot;United States&quot; | Country == &quot;Germany&quot; ) %&gt;% 
@@ -207,7 +207,7 @@ glimpse(GDP_perc_table)</code></pre>
 ## $ year      &lt;chr&gt; &quot;1970&quot;, &quot;1971&quot;, &quot;1972&quot;, &quot;1973&quot;, &quot;1974&quot;, &quot;1975&quot;, &quot;1976&quot;, &quot;197~
 ## $ GDP       &lt;dbl&gt; 1398, 1442, 1504, 1576, 1590, 1576, 1654, 1710, 1761, 1834, ~
 ## $ GDP_diff  &lt;dbl&gt; 2.7893, 3.2741, 3.2702, 2.6121, 1.3476, 2.4397, 2.4072, 2.31~</code></pre>
-<p>We sort the Data and Produce the plot</p>
+<p><em>We sort the data and produce the plot</em></p>
 <pre class="r"><code>#plotting the table 
 ggplot(new_country_list, aes(x = as.double(year))) +
   

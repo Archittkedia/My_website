@@ -31,7 +31,7 @@ library(janitor)
 
 # Introduction
 
-I am Architt Kedia. I have been and brought up in [Hyderabad, India](https://en.wikipedia.org/wiki/Hyderabad). The city is known for its Nizam Heritage, excuisite cuisines, Spicy but delicious Biryanis, flamboyant festivals, and sprawling Tech sector.I have spent most of my early education at a local school. Following is the picture of the same:
+I am Architt Kedia. I have been born and brought up in [Hyderabad, India](https://en.wikipedia.org/wiki/Hyderabad). The city is known for its Nizam Heritage, excuisite cuisines, Spicy but delicious Biryanis, flamboyant festivals, and sprawling Tech sector.I have spent most of my early education at a local school. Following is the picture of the same:
 
 ![My School](https://github.com/Archittkedia/My_website/blob/main/static/img/blogs/Meridian.jpg?raw=true) 
 
