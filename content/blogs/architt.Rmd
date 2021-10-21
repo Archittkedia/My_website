@@ -1,9 +1,8 @@
 ---
-
 draft: false
 keywords: ""
 slug: architt 
-title: "Aboutme"
+title: "About me"
 output: html_document
 ---
 
@@ -64,7 +63,3 @@ I have interests in the following fields:
 4. Sports - Can Watch all sports and play most sports (Especially Table Tennis)
 5. Automobiles and F1  
 6. Adventures
-
-```{r picture1, echo=FALSE, out.width="30%"}
-# knitr::include_graphics("static/img/blogs/Meridian.jpg")
-```
