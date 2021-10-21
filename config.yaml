@@ -80,15 +80,15 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: Img_1.jpg
         subtitle: Dive in to find about more about my life
         title: About Me
         url: blogs/architt
-      - image: pic08.jpg
+      - image: pic02.jpg
         subtitle: Dive in to find out about my Academic work
         title: My Work
         url: blogs/Work
-      - image: pic09.jpg
+      - image: pic03.jpg
         subtitle: Find about more about my R project
         title: R project
         url: blogs/project
